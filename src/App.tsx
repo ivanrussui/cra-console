@@ -10,13 +10,7 @@ function App() {
           <p>
             Edit <code>src/App.tsx</code> and save to reload.
           </p>
-          <p>ttt</p>
-          <p>t2</p>
-          <p>t3</p>
-          <p>4</p>
-          <p>5</p>
-          <p>6</p>
-          <p>7</p>
+          <p>Dev branch</p>
 
           <a
               className="App-link"
