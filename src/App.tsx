@@ -11,6 +11,7 @@ function App() {
             Edit <code>src/App.tsx</code> and save to reload.
           </p>
           <p>Dev branch</p>
+          <p>Dev branch</p>
 
           <a
               className="App-link"
